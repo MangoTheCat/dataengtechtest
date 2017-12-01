@@ -29,7 +29,7 @@ Write a script that queries the MySQL database table and list all users with a T
 
 Write a script that counts the number of unique reviewers in the reviews table.
 
-### Unique Reviewers Query
+### n Reviewers Query
 
 Write a script that ouputs users with five or more reviews.
 
