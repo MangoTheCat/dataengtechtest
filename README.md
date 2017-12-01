@@ -29,6 +29,10 @@ Write a script that queries the MySQL database table and list all users with a T
 
 Write a script that counts the number of unique reviewers in the reviews table.
 
+### Unique Reviewers Query
+
+Write a script that ouputs users with five or more reviews.
+
 ### Twitter Followers/Reviews
 
 Write a script that looks at the Twitter users and calculates a score for followers_count * number of reviews for that user.
@@ -41,6 +45,7 @@ The output you should include in the final submission (as a compressed zip file)
 * Twitter User Population script (Python) for querying the database, the API and inserting data into the userinfo table
 * Output file for the unique reviewers
 * Output file for the twitter followers/reviews
+* Output file for the users with 5 reviews or more
 * A dumped MySQL database structure
 * Suitable tests for the scripts
 
